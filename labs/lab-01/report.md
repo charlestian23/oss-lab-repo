@@ -29,4 +29,4 @@
 ## Part 6
 I want to make sure that the maintainers of the repository have good programming principles. Even if I am really interested in a particular project, if the project's maintainers don't practice good coding practices and have unreadable code, I would rather not spend my time pulling my hair out trying to read what is happening. This along with my interest in the project and my belief that I can contribute something meaningful are all I need to be interested in an open source project.
 
-One repository I am interested in is Manim (the link given is the community build): https://github.com/ManimCommunity/manim
+One repository I am interested in is Manim (the link given is the community build): https://github.com/ManimCommunity/manim. I found this repository while watching 3Blue1Brown videos. I was really interested in what software he was using to show off math concepts, and I was even more interested when I realized that the software he was using was software he wrote himself. After looking around, I discovered that his community had forked his private repository and made a community version.
