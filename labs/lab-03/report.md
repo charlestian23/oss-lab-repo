@@ -6,4 +6,8 @@
 
 ## Part 2
 4. https://github.com/v2grad/organizer
-  \# of contributors: 
+  \# of contributors: 3
+  \# of lines: 42912
+  First commit: https://github.com/V2grad/Organizer/commit/db4084294c8bfb5b4f44238cf6f94cdf382cc7db
+  Latest commit: https://github.com/V2grad/Organizer/commit/0ac5bb1de332cb5336ab1b3098e282efbbbd415c
+  Branches: https://github.com/V2grad/Organizer/branches
