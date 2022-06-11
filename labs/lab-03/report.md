@@ -7,49 +7,49 @@
 ## Part 2
 4. https://github.com/v2grad/organizer
 
-     \# of contributors: 3
+        \# of contributors: 3
 
-     \# of lines: 42912
+        \# of lines: 42912
 
-     First commit: https://github.com/V2grad/Organizer/commit/db4084294c8bfb5b4f44238cf6f94cdf382cc7db
+        First commit: https://github.com/V2grad/Organizer/commit/db4084294c8bfb5b4f44238cf6f94cdf382cc7db
 
-     Latest commit: https://github.com/V2grad/Organizer/commit/0ac5bb1de332cb5336ab1b3098e282efbbbd415c
+        Latest commit: https://github.com/V2grad/Organizer/commit/0ac5bb1de332cb5336ab1b3098e282efbbbd415c
 
-     Branches: https://github.com/V2grad/Organizer/branches
+        Branches: https://github.com/V2grad/Organizer/branches
      
    https://github.com/rpi-alpaca/alpaca
-   
-     \# of contributors: 15
-     
-     \# of lines: 7205
 
-     First commit: https://github.com/rpi-alpaca/alpaca/commit/a8b820a9c12f26ee5861a3cd511dd36805705468
+        \# of contributors: 15
 
-     Latest commit: https://github.com/rpi-alpaca/alpaca/commit/550d1c4f06c0697f5c9e638a98cce34bb2fa5fee
+        \# of lines: 7205
 
-     Branches: https://github.com/rpi-alpaca/alpaca/branches
+        First commit: https://github.com/rpi-alpaca/alpaca/commit/a8b820a9c12f26ee5861a3cd511dd36805705468
+
+        Latest commit: https://github.com/rpi-alpaca/alpaca/commit/550d1c4f06c0697f5c9e638a98cce34bb2fa5fee
+
+        Branches: https://github.com/rpi-alpaca/alpaca/branches
      
 
    https://github.com/adamlawrencium/Ostia
-   
-     \# of contributors: 4
 
-     \# of lines: 16323
+        \# of contributors: 4
 
-     First commit: https://github.com/adamlawrencium/Ostia/commit/53bcb3649b99a550efd593ede918ae170090e85c
+        \# of lines: 16323
 
-     Latest commit: https://github.com/adamlawrencium/Ostia/commit/c6c31d416a0b2cf1066e393e4d8c9b2699d72ff9
+        First commit: https://github.com/adamlawrencium/Ostia/commit/53bcb3649b99a550efd593ede918ae170090e85c
 
-     Branches: https://github.com/adamlawrencium/Ostia/branches
+        Latest commit: https://github.com/adamlawrencium/Ostia/commit/c6c31d416a0b2cf1066e393e4d8c9b2699d72ff9
+
+        Branches: https://github.com/adamlawrencium/Ostia/branches
      
     https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool
     
-     \# of contributors: 6
+        \# of contributors: 6
 
-     \# of lines: 62346
+        \# of lines: 62346
 
-     First commit: https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/commit/90aa5d24e1d6e1fa171d4cd17bc1bd09b7924d83
+        First commit: https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/commit/90aa5d24e1d6e1fa171d4cd17bc1bd09b7924d83
 
-     Latest commit: https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/commit/e762a0128c7dd1a01706988cd7d831d18facecc4
+        Latest commit: https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/commit/e762a0128c7dd1a01706988cd7d831d18facecc4
 
-     Branches: https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/branches
+        Branches: https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/branches
