@@ -55,16 +55,39 @@
         Branches: https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/branches
 
 4. GitStats for Organizer:
+
    ![image](https://user-images.githubusercontent.com/46334090/173201157-9018603b-9ee2-4ead-8204-7b2f04972f25.png)
    
    GitStats for Alpaca:
+   
    ![image](https://user-images.githubusercontent.com/46334090/173201140-07f599d0-1518-41a4-a616-416f05c66e7c.png)
 
    GitStats for Ostia:
+   
    ![image](https://user-images.githubusercontent.com/46334090/173201183-76e4c9a5-40d5-4f95-bd15-8157e64bfb78.png)
 
    GitStats for Eve Online Market Analysis Tool:
+   
    ![image](https://user-images.githubusercontent.com/46334090/173201191-d7c62094-6392-438b-97f7-68daca6d6c05.png)
 
    It seems the the values that GitStats returned and the values I found on GitHub are not exactly the same. If I had to guess why, it could be because GitStats and GitHub count the values different. For example, the number of lines counted from the command given in the lab directions seems to be consistently higher than what GitStats returns. This could be because GitStats, when counting lines of code, does not consider textfiles or markdown files.
    
+5. For Organizer:
+
+   ![image](https://user-images.githubusercontent.com/46334090/173202928-59e92f0e-4926-40fb-bb71-e3ffe5d20e76.png)
+   ![image](https://user-images.githubusercontent.com/46334090/173202958-253b378e-6798-4756-95a0-dca0cfaf6e15.png)
+
+   For Alpaca:
+   
+   ![image](https://user-images.githubusercontent.com/46334090/173203019-396941e0-babd-4ff9-9b11-ffc4790cfac0.png)
+   ![image](https://user-images.githubusercontent.com/46334090/173203059-5df5bcfd-9273-4042-b99d-96276776287e.png)
+   
+   For Ostia:
+   
+   ![image](https://user-images.githubusercontent.com/46334090/173203079-d66e83c9-8937-4061-ae86-670525cd3c43.png)
+   ![image](https://user-images.githubusercontent.com/46334090/173203114-61423212-d1b1-437f-9e34-0cde0d5e7f9f.png)
+   
+   For Eve Online Market Analysis Tool:
+   
+   ![image](https://user-images.githubusercontent.com/46334090/173203157-a4e17065-0fea-4dab-b873-c8ef5908807c.png)
+   ![image](https://user-images.githubusercontent.com/46334090/173203251-294088eb-af6f-42cb-b388-aafc584099bd.png)
