@@ -5,7 +5,7 @@
    ![image](https://user-images.githubusercontent.com/46334090/173107110-6453af46-2fe9-4767-a0d1-bb0197652964.png)
 
 ## Part 2
-4. https://github.com/v2grad/organizer
+3. https://github.com/v2grad/organizer
 
         \# of contributors: 3
 
@@ -46,10 +46,25 @@
     
         \# of contributors: 6
 
-        \# of lines: 62346
+        \# of lines: 302334
 
         First commit: https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/commit/90aa5d24e1d6e1fa171d4cd17bc1bd09b7924d83
 
         Latest commit: https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/commit/e762a0128c7dd1a01706988cd7d831d18facecc4
 
         Branches: https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/branches
+
+4. GitStats for Organizer:
+   ![image](https://user-images.githubusercontent.com/46334090/173201157-9018603b-9ee2-4ead-8204-7b2f04972f25.png)
+   
+   GitStats for Alpaca:
+   ![image](https://user-images.githubusercontent.com/46334090/173201140-07f599d0-1518-41a4-a616-416f05c66e7c.png)
+
+   GitStats for Ostia:
+   ![image](https://user-images.githubusercontent.com/46334090/173201183-76e4c9a5-40d5-4f95-bd15-8157e64bfb78.png)
+
+   GitStats for Eve Online Market Analysis Tool:
+   ![image](https://user-images.githubusercontent.com/46334090/173201191-d7c62094-6392-438b-97f7-68daca6d6c05.png)
+
+   It seems the the values that GitStats returned and the values I found on GitHub are not exactly the same. If I had to guess why, it could be because GitStats and GitHub count the values different. For example, the number of lines counted from the command given in the lab directions seems to be consistently higher than what GitStats returns. This could be because GitStats, when counting lines of code, does not consider textfiles or markdown files.
+   
