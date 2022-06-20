@@ -58,9 +58,24 @@ Console output:
 
 
 `MathFunctions/CMakeLists.txt`:
+
 ![image](https://user-images.githubusercontent.com/46334090/174445620-d33892a6-7be9-421a-bf15-21a6c17e9ac9.png)
 
 ### Part 2
-![image](https://user-images.githubusercontent.com/46334090/174676631-84f0cd18-1a3c-4de8-bb7b-7281b80d0ed7.png)
+Makefile:
+
 ![image](https://user-images.githubusercontent.com/46334090/174676653-4e543f4a-48a0-49ca-b9f9-f445f42d65e6.png)
 
+Sizes of shared and static versions (Makefile):
+![image](https://user-images.githubusercontent.com/46334090/174676631-84f0cd18-1a3c-4de8-bb7b-7281b80d0ed7.png)
+`dynamiclib`'s size is 16696, `staticlib`'s size is 16856.
+
+`CMakeLists.txt`:
+![image](https://user-images.githubusercontent.com/46334090/174688478-af91b965-01f2-49d2-87e3-0501349cbafe.png)
+
+`source/CMakeLists.txt`
+![image](https://user-images.githubusercontent.com/46334090/174688491-4b5a5162-9e5b-41b7-bb99-1bb106ee313d.png)
+
+Sizes of shared and static versions (CMake):
+![image](https://user-images.githubusercontent.com/46334090/174688538-610c6cfd-72af-40af-bf2a-9ed8945ac3b4.png)
+`SharedExecutable`'s size is 16696, `StaticExecutable`'s size is 16856.
