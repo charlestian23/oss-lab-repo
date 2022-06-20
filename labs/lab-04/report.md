@@ -1,4 +1,5 @@
 ## CMake Tutorial
+### Part 1
 #### Step 1
 Console Output:
 
@@ -58,3 +59,8 @@ Console output:
 
 `MathFunctions/CMakeLists.txt`:
 ![image](https://user-images.githubusercontent.com/46334090/174445620-d33892a6-7be9-421a-bf15-21a6c17e9ac9.png)
+
+### Part 2
+![image](https://user-images.githubusercontent.com/46334090/174676631-84f0cd18-1a3c-4de8-bb7b-7281b80d0ed7.png)
+![image](https://user-images.githubusercontent.com/46334090/174676653-4e543f4a-48a0-49ca-b9f9-f445f42d65e6.png)
+
