@@ -9,3 +9,11 @@
 There are no errors that are inconsistent with other projects using my architecture.
 ### Question 4
 ![image](https://user-images.githubusercontent.com/46334090/179259426-6669ba96-9a63-4a52-972d-46becc168d4b.png)
+## Checkpoint 3
+### Question 3
+The failure shows that we have an issue with the copyright. `-VV` gives more detailed output regarding each individual test.
+### Question 4
+![image](https://user-images.githubusercontent.com/46334090/179261998-2ab98a8b-f862-4eb4-85dd-f098f154258f.png)
+### Question 5
+Ran `git restore Copyright.txt` in the cmake directory. Now the output after running `ctest -I 11,26 -VV` is:
+![image](https://user-images.githubusercontent.com/46334090/179262494-3d15ad0c-8dcd-4997-9ba6-9dee60defa33.png)
