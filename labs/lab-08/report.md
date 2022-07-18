@@ -17,3 +17,7 @@ The failure shows that we have an issue with the copyright. `-VV` gives more det
 ### Question 5
 Ran `git restore Copyright.txt` in the cmake directory. Now the output after running `ctest -I 11,26 -VV` is:
 ![image](https://user-images.githubusercontent.com/46334090/179262494-3d15ad0c-8dcd-4997-9ba6-9dee60defa33.png)
+## Checkpoint 4
+https://github.com/charlestian23/lab8checkpoint4
+![image](https://user-images.githubusercontent.com/46334090/179612558-6b67708e-7079-44f6-a019-b362baa5cf9a.png)
+![image](https://user-images.githubusercontent.com/46334090/179612615-8987a3c6-d3c5-4ae1-93e3-3e3290cd7308.png)
