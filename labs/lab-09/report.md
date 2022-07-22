@@ -15,3 +15,8 @@
 ## Example 3
 ![image](https://user-images.githubusercontent.com/46334090/180468540-c60cc26d-d313-4f77-8869-0012cdf874c3.png)
 ![image](https://user-images.githubusercontent.com/46334090/180468474-009ae37c-f097-4caa-b300-e9ac6604446c.png)
+
+## Example 4
+![image](https://user-images.githubusercontent.com/46334090/180481884-eedef12f-c4d0-4695-a745-b98d423b31d1.png)
+Other Terminal:
+![image](https://user-images.githubusercontent.com/46334090/180481843-ef6e1eee-4115-410a-8214-2c775d1c14c0.png)
