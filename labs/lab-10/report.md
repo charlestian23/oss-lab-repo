@@ -21,4 +21,5 @@ https://github.com/charlestian23/oss-lab-repo/wiki/Project-Update-%232:-7.29.202
 
 # Checkpoint 3
 ![image](https://user-images.githubusercontent.com/46334090/181842559-4e1017cf-63ec-41e0-9d2e-dc204c65c2a3.png)
-NOT DONE
+![image](https://user-images.githubusercontent.com/46334090/182248659-bf06325f-45e1-4d38-a8c4-5fbbc03d66ba.png)
+![image](https://user-images.githubusercontent.com/46334090/182251372-5d440093-3346-4c14-9cd8-295864752d20.png)
