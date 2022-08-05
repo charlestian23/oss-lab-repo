@@ -18,3 +18,8 @@
 Modifications:
 ![image](https://user-images.githubusercontent.com/46334090/183118812-9788303b-9bfe-4de8-a880-d39f290237f9.png)
 ![image](https://user-images.githubusercontent.com/46334090/183118787-53c8e8b7-6c48-4b39-8983-383429784219.png)
+
+## Checkpoint 3
+![image](https://user-images.githubusercontent.com/46334090/183122602-bd8131e0-9e1c-458b-abed-24acb21d54ad.png)
+Excerpt of code:
+![image](https://user-images.githubusercontent.com/46334090/183122646-8332c7be-2257-48be-8353-054279591975.png)
