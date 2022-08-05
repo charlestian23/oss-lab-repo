@@ -16,5 +16,5 @@
 ![image](https://user-images.githubusercontent.com/46334090/183117039-b4c776d5-cce0-4c23-a4c9-5a9c6c74cf64.png)
 
 Modifications:
-![image](https://user-images.githubusercontent.com/46334090/183117109-31c89bea-e02e-4706-9167-1762e846b2a2.png)
-![image](https://user-images.githubusercontent.com/46334090/183117160-8e8a2108-bfa4-4f9a-989d-f7b46f41a0d3.png)
+![image](https://user-images.githubusercontent.com/46334090/183118812-9788303b-9bfe-4de8-a880-d39f290237f9.png)
+![image](https://user-images.githubusercontent.com/46334090/183118787-53c8e8b7-6c48-4b39-8983-383429784219.png)
