@@ -20,6 +20,11 @@ Modifications:
 ![image](https://user-images.githubusercontent.com/46334090/183118787-53c8e8b7-6c48-4b39-8983-383429784219.png)
 
 ## Checkpoint 3
+Original images:
+![federer_shirt](https://user-images.githubusercontent.com/46334090/183512369-c8b3b147-9c90-40bb-ab02-1c4b9ad439e0.jpg)
+![polo_shirt](https://user-images.githubusercontent.com/46334090/183512384-5f250559-714d-4b97-adcc-b9d46197314e.jpg)
+![polo_sweater](https://user-images.githubusercontent.com/46334090/183512397-c4122c8c-4733-4a2e-b8a9-3dde59ec26c5.jpg)
+
 ![image](https://user-images.githubusercontent.com/46334090/183122602-bd8131e0-9e1c-458b-abed-24acb21d54ad.png)
 Excerpt of code:
 ![image](https://user-images.githubusercontent.com/46334090/183122646-8332c7be-2257-48be-8353-054279591975.png)
