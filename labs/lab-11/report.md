@@ -21,6 +21,7 @@ Modifications:
 
 ## Checkpoint 3
 Original images:
+
 ![federer_shirt](https://user-images.githubusercontent.com/46334090/183512369-c8b3b147-9c90-40bb-ab02-1c4b9ad439e0.jpg)
 ![polo_shirt](https://user-images.githubusercontent.com/46334090/183512384-5f250559-714d-4b97-adcc-b9d46197314e.jpg)
 ![polo_sweater](https://user-images.githubusercontent.com/46334090/183512397-c4122c8c-4733-4a2e-b8a9-3dde59ec26c5.jpg)
